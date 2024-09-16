@@ -2,7 +2,7 @@
 another lol codes :D
 
 download `lol` file
-$ chmod +x lol
+`$ chmod +x lol`
 and run it :) 
 
 if you want use costum chars, just give them in argument when you want to run it.
