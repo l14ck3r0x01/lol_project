@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from os import get_terminal_size
+from os import get_terminal_size, system
 from colorama import Fore
 from colorama import Style
 from colorama import Back
